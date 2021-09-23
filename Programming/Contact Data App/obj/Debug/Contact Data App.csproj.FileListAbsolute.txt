@@ -1,0 +1,12 @@
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\bin\Debug\Contact Data App.exe.config
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\bin\Debug\Contact Data App.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\bin\Debug\Contact Data App.pdb
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\obj\Debug\Contact Data App.csproj.AssemblyReference.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\obj\Debug\Contact_Data_App.Form1.resources
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\obj\Debug\Contact_Data_App.Properties.Resources.resources
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\obj\Debug\Contact Data App.csproj.GenerateResource.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\obj\Debug\Contact Data App.csproj.CoreCompileInputs.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\obj\Debug\Contact Data App.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\obj\Debug\Contact Data App.pdb
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\bin\Debug\Database1.mdf
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\term_1\Programming\Contact Data App\bin\Debug\Database1_log.ldf

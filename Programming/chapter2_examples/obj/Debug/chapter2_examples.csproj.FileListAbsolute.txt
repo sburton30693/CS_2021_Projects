@@ -1,0 +1,7 @@
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\chapter2_examples\obj\Debug\chapter2_examples.csproj.AssemblyReference.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\chapter2_examples\obj\Debug\chapter2_examples.csproj.CoreCompileInputs.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\chapter2_examples\bin\Debug\chapter2_examples.exe.config
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\chapter2_examples\bin\Debug\chapter2_examples.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\chapter2_examples\bin\Debug\chapter2_examples.pdb
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\chapter2_examples\obj\Debug\chapter2_examples.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\chapter2_examples\obj\Debug\chapter2_examples.pdb
