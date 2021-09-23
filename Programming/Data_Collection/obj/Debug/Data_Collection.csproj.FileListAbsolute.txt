@@ -1,0 +1,10 @@
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Collection\bin\Debug\Data_Collection.exe.config
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Collection\bin\Debug\Data_Collection.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Collection\bin\Debug\Data_Collection.pdb
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Collection\obj\Debug\Data_Collection.csproj.AssemblyReference.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Collection\obj\Debug\Data_Collection.Data_Collection_Form.resources
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Collection\obj\Debug\Data_Collection.Properties.Resources.resources
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Collection\obj\Debug\Data_Collection.csproj.GenerateResource.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Collection\obj\Debug\Data_Collection.csproj.CoreCompileInputs.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Collection\obj\Debug\Data_Collection.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Collection\obj\Debug\Data_Collection.pdb
