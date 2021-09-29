@@ -1,0 +1,10 @@
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Calculator\bin\Debug\Calculator.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Calculator\bin\Debug\Calculator.pdb
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Calculator\obj\Debug\Calculator.Calculator_Form.resources
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Calculator\obj\Debug\Calculator.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Calculator\obj\Debug\Calculator.pdb
