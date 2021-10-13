@@ -1,0 +1,10 @@
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Personal_Hello\bin\Debug\Personal_Hello.exe.config
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Personal_Hello\bin\Debug\Personal_Hello.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Personal_Hello\bin\Debug\Personal_Hello.pdb
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Personal_Hello\obj\Debug\Personal_Hello.csproj.AssemblyReference.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Personal_Hello\obj\Debug\Personal_Hello.Hello_Form.resources
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Personal_Hello\obj\Debug\Personal_Hello.Properties.Resources.resources
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Personal_Hello\obj\Debug\Personal_Hello.csproj.GenerateResource.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Personal_Hello\obj\Debug\Personal_Hello.csproj.CoreCompileInputs.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Personal_Hello\obj\Debug\Personal_Hello.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Personal_Hello\obj\Debug\Personal_Hello.pdb

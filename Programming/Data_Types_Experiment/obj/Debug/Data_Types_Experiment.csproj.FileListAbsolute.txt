@@ -1,0 +1,10 @@
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Types_Experiment\bin\Debug\Data_Types_Experiment.exe.config
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Types_Experiment\bin\Debug\Data_Types_Experiment.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Types_Experiment\bin\Debug\Data_Types_Experiment.pdb
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Types_Experiment\obj\Debug\Data_Types_Experiment.csproj.AssemblyReference.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Types_Experiment\obj\Debug\Data_Types_Experiment.DataType_Form.resources
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Types_Experiment\obj\Debug\Data_Types_Experiment.Properties.Resources.resources
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Types_Experiment\obj\Debug\Data_Types_Experiment.csproj.GenerateResource.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Types_Experiment\obj\Debug\Data_Types_Experiment.csproj.CoreCompileInputs.cache
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Types_Experiment\obj\Debug\Data_Types_Experiment.exe
+C:\Users\spencer.burton\OneDrive - tooelesd\Desktop\CS_2021_Projects\Programming\Data_Types_Experiment\obj\Debug\Data_Types_Experiment.pdb
